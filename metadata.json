@@ -1,0 +1,6 @@
+{
+  "name": "தமிழ் அறிவகம் — Tamil Arivagam",
+  "description": "AI Research for Tamil Knowledge. Ask. Discover. Verify. Understand. An evidence-first digital research workstation and ancient archive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
